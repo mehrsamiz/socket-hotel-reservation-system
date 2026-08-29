@@ -66,48 +66,20 @@ The server communicates execution status back to the client via structured appli
 
 | Status Code | Description | Context |
 | --- | --- | --- |
-| **104** | Room Added | Successfully added a new room to inventory.
-
- |
-| **105** | Room Modified | Room capacity or pricing successfully updated.
-
- |
-| **106** | Room Deleted | Room successfully removed from inventory.
-
- |
-| **108** | Insufficient Balance | User account purse is insufficient for booking cost.
-
- |
-| **109** | Capacity Full | Room requested is occupied or lacks sufficient remaining capacity.
-
- |
-| **110** | Action Successful | Booking or cancellation successfully processed.
-
- |
-| **200** | OK | Standard request completion.
-
- |
-| **230** | Authentication Success | User successfully logged in.
-
- |
-| **231** | Registration Complete | User account registration completed.
-
- |
-| **311** | Registration Step 2 | Username accepted; awaiting extended profile details.
-
- |
-| **401** | Unauthorized / Format Error | Missing authentication or malformed command.
-
- |
-| **403** | Permission Denied | Attempted action exceeds current role privileges.
-
- |
-| **451** | Conflict | Account username already exists in registry.
-
- |
-| **503** | Service Unavailable / Error | Uninitialized system clock or invalid request sequence.
-
- |
+| **104** | Room Added | Successfully added a new room to inventory.|
+| **105** | Room Modified | Room capacity or pricing successfully updated.|
+| **106** | Room Deleted | Room successfully removed from inventory.|
+| **108** | Insufficient Balance | User account purse is insufficient for booking cost.|
+| **109** | Capacity Full | Room requested is occupied or lacks sufficient remaining capacity.|
+| **110** | Action Successful | Booking or cancellation successfully processed.|
+| **200** | OK | Standard request completion.|
+| **230** | Authentication Success | User successfully logged in.|
+| **231** | Registration Complete | User account registration completed.|
+| **311** | Registration Step 2 | Username accepted; awaiting extended profile details.|
+| **401** | Unauthorized / Format Error | Missing authentication or malformed command.|
+| **403** | Permission Denied | Attempted action exceeds current role privileges.|
+| **451** | Conflict | Account username already exists in registry.|
+| **503** | Service Unavailable / Error | Uninitialized system clock or invalid request sequence.|
 
 ---
 
@@ -149,6 +121,3 @@ python client.py
 
 ```
 
-```
-
-```
