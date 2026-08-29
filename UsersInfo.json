@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "user": "Admin",
+        "admin": "true",
+        "purse": "0",
+        "phoneNumber": "N/A",
+        "address": "N/A",
+        "password_hash": "140d762831dc04e8e2b130d6b492caad3688557b5f57b1bf8bc9879e6d59a104",
+        "password_salt": "f26ba8b4a479ee89698c8585402228dd"
+    },
+    {
+        "id": 1,
+        "user": "Mohammad",
+        "admin": "false",
+        "purse": "1000",
+        "phoneNumber": "00945963265",
+        "address": "Iran, Tehran",
+        "password_hash": "3820630a218afc53be3fc1eae875c13f48fc61c6601fb9b38c9b570adfd1493c",
+        "password_salt": "915de541c0501c2d0c4cb6f315f6012e"
+    },
+    {
+        "id": 2,
+        "user": "Sara",
+        "admin": "false",
+        "purse": "1425",
+        "phoneNumber": "09170002211",
+        "address": "Iran, Shiraz",
+        "password_hash": "2505aeb62d0fd31544d8290324ff38a180c2df4834046f617979fb37e544fd7b",
+        "password_salt": "2d67a8b3c7afb2b436939555f32f7983"
+    },
+    {
+        "id": 3,
+        "user": "Ali",
+        "admin": "false",
+        "purse": "430",
+        "phoneNumber": "09150000000",
+        "address": "Iran, Mashhad",
+        "password_hash": "b69deb0640ef40443c0bd10f43fc600520057b918021cdbc61fbbe349cc3ddfb",
+        "password_salt": "357dbec5e61d30aeb3f69f790e474bfc"
+    },
+    {
+        "id": 4,
+        "user": "test",
+        "admin": "false",
+        "purse": "450",
+        "phoneNumber": "09334563456",
+        "address": "Isfahan, naghshejahan",
+        "password_hash": "3ac07d9c127efc9246975f3bfede9aea0d12418378d38dc645f85929211e3b63",
+        "password_salt": "bda51ac75bbc842ad54e0422aea53ec4"
+    },
+    {
+        "id": 5,
+        "user": "testing",
+        "password_hash": "edf313c8d38f31fd99f3f2f75382eb512b8627700a34434aacb47f02a111c51d",
+        "password_salt": "a3e0e8f010205920baa6285ad25fbece",
+        "admin": "false",
+        "purse": "310",
+        "phoneNumber": "09335567898",
+        "address": "Isfahan, naghshe jahan"
+    }
+]

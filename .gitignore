@@ -1,0 +1,25 @@
+# Python Bytecode and Cache Directories
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Files
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# System Diagnostic Logs & Logs Directory
+server.log
+client_logs/
+
+# IDE and Editor Settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS Specific Files
+.DS_Store
+Thumbs.db

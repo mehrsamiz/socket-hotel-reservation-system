@@ -1,0 +1,48 @@
+[
+    {
+        "number": "101",
+        "status": 0,
+        "price": 100,
+        "maxCapacity": 2,
+        "capacity": 2,
+        "users": []
+    },
+    {
+        "number": "102",
+        "status": 1,
+        "price": 75,
+        "maxCapacity": 3,
+        "capacity": 2,
+        "users": [
+            {
+                "id": 2,
+                "numOfBeds": 1,
+                "reserveDate": "29-08-2026",
+                "checkoutDate": "30-08-2026"
+            }
+        ]
+    },
+    {
+        "number": "103",
+        "status": 0,
+        "price": 60,
+        "maxCapacity": 4,
+        "capacity": 4,
+        "users": []
+    },
+    {
+        "number": "104",
+        "status": 1,
+        "price": 140,
+        "maxCapacity": 1,
+        "capacity": 0,
+        "users": [
+            {
+                "id": 5,
+                "numOfBeds": 1,
+                "reserveDate": "29-08-2026",
+                "checkoutDate": "30-08-2026"
+            }
+        ]
+    }
+]
